@@ -16,8 +16,8 @@ public class DatosHojaVida {
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
     private String perfil = "El Tecnólogo en Desarrollo de Software es un profesional capaz de analizar, diseñar y desarrollar sistemas informáticos, creando aplicaciones dinámicas con programación orientada a objetos. Puede integrarse en equipos de trabajo, apoyar en la administración de redes y liderar procesos tecnológicos con pensamiento crítico, creatividad y buena adaptación al entorno laboral.";
-    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String experiencia = "2024-2025\n[Product Manager, Scrum Master] - [Unimayor]\n[Popayán]";
+    private String educacion = "2020-2025\n[Tecnólogo en Desarrollo de Software] - [Colegio Mayor del cauca]\n[Popayán]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
     private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     // =================================================
