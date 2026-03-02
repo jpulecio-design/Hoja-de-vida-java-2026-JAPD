@@ -18,8 +18,8 @@ public class DatosHojaVida {
     private String perfil = "El Tecnólogo en Desarrollo de Software es un profesional capaz de analizar, diseñar y desarrollar sistemas informáticos, creando aplicaciones dinámicas con programación orientada a objetos. Puede integrarse en equipos de trabajo, apoyar en la administración de redes y liderar procesos tecnológicos con pensamiento crítico, creatividad y buena adaptación al entorno laboral.";
     private String experiencia = "2024-2025\n[Product Manager, Scrum Master] - [Unimayor]\n[Popayán]";
     private String educacion = "2020-2025\n[Tecnólogo en Desarrollo de Software] - [Colegio Mayor del cauca]\n[Popayán]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software, Inteligencia Artificial"};
+    private String proyectos = "• AssemblyLab - Proyecto acerca de ensamblar computadoras basado en la website de PCPartPicket, tecnologias usadas, java, json y la plataforma de desarrollo netbeans";
     // =================================================
 
     public String getNombre() { return nombre; }
